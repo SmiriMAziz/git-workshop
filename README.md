@@ -1,2 +1,2 @@
 # git-workshop
-just learninb how to use git 
+just learning how to use git 
